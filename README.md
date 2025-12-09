@@ -1,9 +1,7 @@
 README.md
 
 🔍 Project Overview
-This project showcases retail sales performance using the Superstore dataset. 
-It provides clear insights on revenue trends, product performance, customer segments,  
-in other to help business make data-driven decisions.
+This project showcases retail sales performance using the Superstore dataset. It includes data cleaning, visualization, trend analysis, and an interactive Power BI dashboard that reveals insights across customer segments, regions, product categories and profitability.
 
 Retail_Sales_Analysis/
 │
@@ -26,15 +24,32 @@ Retail_Sales_Analysis/
 └── .gitignore
 
 
-Dataset
-Source: Superstore Sales Dataset from Kaggle  
-Contains: Orders, Customers
+📌 Project Objectives
+-Analyze sales and profit trends across regions and categories
+-Identify top-performing and under-performing products
+-Build an interactive Power BI dashboard
+-Summarize insights for data-driven decision-making
 
-🎯 Objectives
--Analyze overall retail sales revenue and profitability
--Identify top-performing products, categories, and regions
--Visualize yearly sales trends
--Create interactive dashboards for insights and reporting
+📊 Dashboard Features
+1. Sales Overview
+-Total sales, profit, orders
+-Year-over-Year (YoY) comparison
+-KPIs and trend indicators
+
+2. Product & Category Analysis
+-Performance of Furniture, Technology, and Office Supplies
+-Sub-category profit breakdown
+-High-return and low-profit items
+
+3. Regional Analysis
+-Regional sales distribution
+-Profit heatmaps
+-Under-performing areas
+
+4. Customer Insights
+-Customer segmentation analysis
+-High-value customer groups
+-Purchasing patterns
 
 🛠️ Tools Used
 -Power BI
@@ -50,9 +65,9 @@ Contains: Orders, Customers
 -  Yearly Sales Trend
 
 📊 Key Insights
-- Technology category contributes the highest revenue.
-- West region is the most profitable.
-- Furniture has the highest return rate.
+-Technology category delivers highest revenue and profit
+-West region generates strongest performance
+-Corporate customers contribute the highest revenue share
 
 ✨ Features
 -Clean and interactive Power BI dashboard
@@ -71,9 +86,10 @@ Contains: Orders, Customers
 -Open it using Power BI Desktop
 -Explore all report pages, slicers, and visuals interactively 
 
+📌 Last Updated: December 2025
+
 👩‍💻 Author
 Debbie-bliss
-Nigeria
 ndukad64@gmail.com
 
 
