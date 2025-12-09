@@ -5,19 +5,26 @@ This project showcases retail sales performance using the Superstore dataset.
 It provides clear insights on revenue trends, product performance, customer segments,  
 in other to help business make data-driven decisions.
 
-Retail-Sales-Analysis/
+Retail_Sales_Analysis/
 │
 ├── Data/
 │   ├── Raw/
+│   │   └── superstore_sales.csv
 │   └── Processed/
 │
 ├── PowerBI/
 │   └── Retail_Sales_Analysis.pbix
 │
 ├── Reports/
-│   └── Insights_Summary.pdf
+│   ├── Insights_Summary.pdf
+│   └── Screenshots/
+│       ├── Dashboard_Page1.png
+│       ├── Dashboard_Page2.png
+│       └── Dashboard_Page3.png
 │
-└── README.md
+├── README.md
+└── .gitignore
+
 
 Dataset
 Source: Superstore Sales Dataset from Kaggle  
